@@ -1,4 +1,4 @@
-# Predicting Chil dMaltreatment in Richmond, VA
+# Predicting Child Maltreatment in Richmond, VA
 
 There are two goals of the work presented here. First, to create a comprehensive open source framework for developing a child maltreatment predictive model to estimate maltreatment risk across Richmond.
 

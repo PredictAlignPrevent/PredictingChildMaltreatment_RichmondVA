@@ -1,6 +1,6 @@
 # Predicting Child Maltreatment in Richmond, VA
 
-There are two goals of the work presented here. First, to create a comprehensive open source framework for developing a child maltreatment predictive model to estimate maltreatment risk across Richmond.
+There are two goals of the work presented [here](https://predictalignprevent.github.io/PredictingChildMaltreatment_RichmondVA/). First, to create a comprehensive open source framework for developing a child maltreatment predictive model to estimate maltreatment risk across Richmond.
 
 Second, to document a strategic planning process for converting maltreatment risk predictions into actionable intelligence stakeholders can use to efficiently allocate limited child welfare resources. In this ‘Align’ phase of the framework, we assess the extent to which the current supply of child welfare services is properly distributed relative to the demand for these services.
 
